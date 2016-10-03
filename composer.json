@@ -1,0 +1,11 @@
+{
+    "name": "consolewin/larabat",
+    "description": "tools to using some commands of artisan.",
+    "authors": [
+        {
+            "name": "Camilo Barbosa",
+            "email": "barbosa93cg@gmail.com"
+        }
+    ],
+    "require": {}
+}
