@@ -1,11 +1,15 @@
 {
     "name": "laravelconsoleswin/laravelconsoleswin",
     "description": "tools to using some commands of artisan.",
+    "type":"library",
+    "homepage":"https://github.com/barjuegocreador93/laravelConsolesWin",
     "authors": [
         {
             "name": "Camilo Barbosa",
             "email": "barbosa93cg@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+    	 "php": "^5.0 || ^7.0"
+    }
 }
