@@ -5,6 +5,7 @@
     "license":"GNU GENERAL PUBLIC LICENSE",
     "version":"1.0-dev",
     "homepage":"https://github.com/barjuegocreador93/laravelConsolesWin",
+    "repository":"https://packagist.org/packages/consolarabat/clb",
     "authors": [
         {
             "name": "Camilo Barbosa",
