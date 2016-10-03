@@ -2,6 +2,7 @@
     "name": "consolarabat/clb",
     "description": "tools to using some commands of artisan.",
     "type":"library",
+    "version":"1.0-dev",
     "homepage":"https://github.com/barjuegocreador93/laravelConsolesWin",
     "authors": [
         {
