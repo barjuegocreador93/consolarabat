@@ -1,5 +1,5 @@
 {
-    "name": "consolarabat/clb",
+    "name": "larashell/batch",
     "description": "tools to using some commands of artisan.",
     "type":"library",
     "license":"GNU GENERAL PUBLIC LICENSE",
